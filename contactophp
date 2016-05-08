@@ -1,0 +1,4 @@
+<?php
+  $nombre = "@garcia";
+  echo $nombre;
+?;
